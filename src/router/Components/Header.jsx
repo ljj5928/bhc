@@ -10,14 +10,14 @@ const Header = () => {
     <header>
       <div className='header_i'>
         <div className='logo'>
-          <Link to='/'>
+          <Link to='/bhc'>
             <img src="./bhc/bhc_logo.png" alt="로고" />
           </Link>
         </div>
         <ul className='gnb'>
-            <li><Link to='/'>메뉴</Link></li>   
+            <li><Link to='/bhc'>메뉴</Link></li>   
             <li>매장</li>   
-            <li><Link to='/startup'>창업</Link></li>   
+            <li><Link to='/bhc/startup'>창업</Link></li>   
             <li>브랜드</li>   
             <li>고객센터</li>   
             <li>로그인</li>   
