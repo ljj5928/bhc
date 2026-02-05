@@ -3,20 +3,20 @@ import { useState } from "react";
 
 const Menu = () => {
   const [menus, setMenus] = useState([
-    { id: 1, name: "콰삭톡 한마리", engName: "Kwasak Tok", img: "/bhcimg/c1.png" },
-    { id: 2, name: "콰삭톡 콤보", engName: "Kwasak Tok", img: "/bhcimg/c2.png" },
-    { id: 3, name: "콰삭톡 순살", engName: "Kwasak Tok", img: "/bhcimg/c3.png" },
-    { id: 4, name: "콰삭톡 윙", engName: "Kwasak Tok", img: "/bhcimg/c4.png" },
-    { id: 5, name: "콰삭톡 스틱", engName: "Kwasak Tok", img: "/bhcimg/c5.png" },
+    { id: 1, name: "콰삭톡 한마리", engName: "Kwasak Tok", img: "./bhcimg/c1.png" },
+    { id: 2, name: "콰삭톡 콤보", engName: "Kwasak Tok", img: "./bhcimg/c2.png" },
+    { id: 3, name: "콰삭톡 순살", engName: "Kwasak Tok", img: "./bhcimg/c3.png" },
+    { id: 4, name: "콰삭톡 윙", engName: "Kwasak Tok", img: "./bhcimg/c4.png" },
+    { id: 5, name: "콰삭톡 스틱", engName: "Kwasak Tok", img: "./bhcimg/c5.png" },
     {
       id: 6,
       name: "콰삭킹 한마리",
       engName: "Kwasak King",
       img: "./bhcimg/c6.png",
     },
-    { id: 7, name: "콰삭킹 콤보", engName: "Kwasak King", img: "/bhcimg/c7.png" },
-    { id: 8, name: "콰삭킹 순살", engName: "Kwasak King", img: "/bhcimg/c8.png" },
-    { id: 9, name: "콰삭킹 윙", engName: "Kwasak King", img: "/bhcimg/c9.png" },
+    { id: 7, name: "콰삭킹 콤보", engName: "Kwasak King", img: "./bhcimg/c7.png" },
+    { id: 8, name: "콰삭킹 순살", engName: "Kwasak King", img: "./bhcimg/c8.png" },
+    { id: 9, name: "콰삭킹 윙", engName: "Kwasak King", img: "./bhcimg/c9.png" },
     {
       id: 10,
       name: "콰삭킹 스틱",
