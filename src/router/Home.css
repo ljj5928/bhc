@@ -115,7 +115,7 @@ header .header_i .ham_btn {
 
 .menu .menu_img {
   height: 399px;
-  background-image: url("../bhcimg/main_bg.png");
+  background-image: url("/bhcimg/main_bg.png");
   background-position: center;
   display: flex;
   align-items: center;
@@ -189,7 +189,7 @@ header .header_i .ham_btn {
 
 .startup .startup_img {
   height: 970px;
-  background-image: url("../bhcimg/sub_bg.png");
+  background-image: url("/bhcimg/sub_bg.png");
   background-position: center;
 }
 
@@ -291,13 +291,13 @@ header .header_i .ham_btn {
 }
 
 .startup .startup_content .startup_content_i .taste .taste_con .box1 {
-  background-image: url("../bhcimg/b1.png");
+  background-image: url("/bhcimg/b1.png");
 }
 .startup .startup_content .startup_content_i .taste .taste_con .box2 {
-  background-image: url("../bhcimg/b2.png");
+  background-image: url("/bhcimg/b2.png");
 }
 .startup .startup_content .startup_content_i .taste .taste_con .box3 {
-  background-image: url("../bhcimg/b3.png");
+  background-image: url("/bhcimg/b3.png");
 }
 
 @media screen and (max-width: 680px) {
