@@ -11,8 +11,8 @@ const Home = () => {
     <div>
       <Header />
       <Routes>
-        <Route path="/bhc" element={<Menu />} />
-        <Route path="/bhc/Startup" element={<StartUp />} />
+        <Route path="/" element={<Menu />} />
+        <Route path="/Startup" element={<StartUp />} />
       </Routes>
       <Footer />
     </div>

@@ -21,7 +21,7 @@ const Menu = () => {
       id: 10,
       name: "콰삭킹 스틱",
       engName: "Kwasak King",
-      img: "/bhc/c10.png",
+      img: "./bhc/c10.png",
     },
   ]);
 
