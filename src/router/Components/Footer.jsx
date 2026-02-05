@@ -14,7 +14,7 @@ const Footer = () => {
         </ul>
         <div className="foot_content">
           <div className="foot_info">
-            <img src="./bhc/bhc_logo.png" alt="풋로고" />
+            <img src="./bhcimg/bhc_logo.png" alt="풋로고" />
             <p>주소 서울시 송파구 올림픽로 300, 19층(신천동)</p>
             <p>
               대표 송호섭 사업자등록번호 215-86-61559 <br className="mobile"/>통신판매업 제

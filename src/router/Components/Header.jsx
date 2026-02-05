@@ -11,7 +11,7 @@ const Header = () => {
       <div className='header_i'>
         <div className='logo'>
           <Link to='/bhc'>
-            <img src="./bhc/bhc_logo.png" alt="로고" />
+            <img src="./bhcimg/bhc_logo.png" alt="로고" />
           </Link>
         </div>
         <ul className='gnb'>
